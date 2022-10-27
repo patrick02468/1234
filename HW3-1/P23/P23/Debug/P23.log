@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\陳心燕\1234\hw3-1\p23\p23\source.cpp(11): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  P23.vcxproj -> C:\Users\陳心燕\1234\HW3-1\P23\Debug\P23.exe

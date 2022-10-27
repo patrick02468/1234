@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\陳心燕\1234\hw3-1\p18\p18\source.cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 請參閱 'strcpy' 的宣告
+  P18.vcxproj -> C:\Users\陳心燕\1234\HW3-1\P18\Debug\P18.exe
