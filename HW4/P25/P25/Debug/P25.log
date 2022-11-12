@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\陳心燕\1234\hw4\p25\p25\source.cpp(2): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+c:\users\陳心燕\1234\hw4\p25\p25\source.cpp(4): error C3861: 'addbyone': 找不到識別項
+c:\users\陳心燕\1234\hw4\p25\p25\source.cpp(5): error C3861: 'printf': 找不到識別項
+c:\users\陳心燕\1234\hw4\p25\p25\source.cpp(6): error C3861: 'system': 找不到識別項
+c:\users\陳心燕\1234\hw4\p25\p25\source.cpp(12): error C3861: 'printf': 找不到識別項
+  Source1.cpp
+c:\users\陳心燕\1234\hw4\p25\p25\source1.cpp(2): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+c:\users\陳心燕\1234\hw4\p25\p25\source1.cpp(4): error C3861: 'addbyone': 找不到識別項
+c:\users\陳心燕\1234\hw4\p25\p25\source1.cpp(5): error C3861: 'printf': 找不到識別項
+c:\users\陳心燕\1234\hw4\p25\p25\source1.cpp(6): error C3861: 'system': 找不到識別項
+c:\users\陳心燕\1234\hw4\p25\p25\source1.cpp(12): error C3861: 'printf': 找不到識別項
+  正在產生程式碼...
