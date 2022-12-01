@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\陳心燕\1234\hw5\p05\p05\source.cpp(9): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 2 的類型為 'int'
+c:\users\陳心燕\1234\hw5\p05\p05\source.cpp(11): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+c:\users\陳心燕\1234\hw5\p05\p05\source.cpp(11): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 2 的類型為 'int'
+  P05.vcxproj -> C:\Users\陳心燕\1234\HW5\P05\Debug\P05.exe
